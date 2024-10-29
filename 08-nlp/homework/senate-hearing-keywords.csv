@@ -1,0 +1,1583 @@
+entity,label,explanation
+MARCH 15,DATE,Absolute or relative dates or periods
+the Committee on Environment and Public Works,ORG,"Companies, agencies, institutions, etc."
+the World Wide Web,ORG,"Companies, agencies, institutions, etc."
+WASHINGTON,GPE,"Countries, cities, states"
+EIGHTEENTH,DATE,Absolute or relative dates or periods
+THOMAS R. CARPER,PERSON,"People, including fictional"
+Delaware,GPE,"Countries, cities, states"
+SHELLEY MOORE CAPITO,PERSON,"People, including fictional"
+West Virginia,GPE,"Countries, cities, states"
+BENJAMIN L. CARDIN,PERSON,"People, including fictional"
+Maryland,GPE,"Countries, cities, states"
+KEVIN CRAMER,PERSON,"People, including fictional"
+North Dakota,GPE,"Countries, cities, states"
+BERNARD SANDERS,PERSON,"People, including fictional"
+Vermont,GPE,"Countries, cities, states"
+CYNTHIA M. LUMMIS,PERSON,"People, including fictional"
+Wyoming,GPE,"Countries, cities, states"
+SHELDON WHITEHOUSE,PERSON,"People, including fictional"
+Rhode Island,GPE,"Countries, cities, states"
+MARKWAYNE MULLIN,PERSON,"People, including fictional"
+Oklahoma,GPE,"Countries, cities, states"
+JEFF MERKLEY,PERSON,"People, including fictional"
+Oregon,GPE,"Countries, cities, states"
+PETE RICKETTS,PERSON,"People, including fictional"
+Nebraska,GPE,"Countries, cities, states"
+EDWARD J. MARKEY,PERSON,"People, including fictional"
+Massachusetts,GPE,"Countries, cities, states"
+JOHN BOOZMAN,PERSON,"People, including fictional"
+Arkansas,GPE,"Countries, cities, states"
+DEBBIE STABENOW,PERSON,"People, including fictional"
+Michigan,GPE,"Countries, cities, states"
+ROGER WICKER,PERSON,"People, including fictional"
+Mississippi,GPE,"Countries, cities, states"
+MARK KELLY,PERSON,"People, including fictional"
+Arizona,GPE,"Countries, cities, states"
+DAN SULLIVAN,PERSON,"People, including fictional"
+Alaska,GPE,"Countries, cities, states"
+ALEX PADILLA,PERSON,"People, including fictional"
+California,GPE,"Countries, cities, states"
+LINDSEY O. GRAHAM,PERSON,"People, including fictional"
+South Carolina,GPE,"Countries, cities, states"
+JOHN FETTERMAN,PERSON,"People, including fictional"
+Pennsylvania,GPE,"Countries, cities, states"
+Courtney Taylor,PERSON,"People, including fictional"
+Democratic,NORP,Nationalities or religious or political groups
+Adam Tomlinson,PERSON,"People, including fictional"
+Republican,NORP,Nationalities or religious or political groups
+C O N T E,ORG,"Companies, agencies, institutions, etc."
+"MARCH 15, 2023",DATE,Absolute or relative dates or periods
+Carper,PERSON,"People, including fictional"
+Thomas R.,PERSON,"People, including fictional"
+U.S.,GPE,"Countries, cities, states"
+Delaware,GPE,"Countries, cities, states"
+1,CARDINAL,Numerals that do not fall under another type
+Capito,PERSON,"People, including fictional"
+Shelley Moore,PERSON,"People, including fictional"
+U.S.,GPE,"Countries, cities, states"
+West,GPE,"Countries, cities, states"
+3,CARDINAL,Numerals that do not fall under another type
+Fox,PERSON,"People, including fictional"
+Radhika,PERSON,"People, including fictional"
+Office of Water,ORG,"Companies, agencies, institutions, etc."
+Environmental Protection Agency,ORG,"Companies, agencies, institutions, etc."
+6,CARDINAL,Numerals that do not fall under another type
+9,CARDINAL,Numerals that do not fall under another type
+Carper,PERSON,"People, including fictional"
+18,CARDINAL,Numerals that do not fall under another type
+Fetterman,PERSON,"People, including fictional"
+23,CARDINAL,Numerals that do not fall under another type
+Capito,PERSON,"People, including fictional"
+25,CARDINAL,Numerals that do not fall under another type
+Cramer,PERSON,"People, including fictional"
+28,CARDINAL,Numerals that do not fall under another type
+Lummis,PERSON,"People, including fictional"
+30,CARDINAL,Numerals that do not fall under another type
+Mullin,PERSON,"People, including fictional"
+30,CARDINAL,Numerals that do not fall under another type
+Sullivan,PERSON,"People, including fictional"
+32,CARDINAL,Numerals that do not fall under another type
+Hayman,PERSON,"People, including fictional"
+Randy E.,PERSON,"People, including fictional"
+Philadelphia Water,ORG,"Companies, agencies, institutions, etc."
+70,CARDINAL,Numerals that do not fall under another type
+73,CARDINAL,Numerals that do not fall under another type
+Carper,PERSON,"People, including fictional"
+82,CARDINAL,Numerals that do not fall under another type
+Sigmund,PERSON,"People, including fictional"
+Thomas W.,PERSON,"People, including fictional"
+"National Association of Clean 
+  Water Agencies",ORG,"Companies, agencies, institutions, etc."
+NEW Water,ORG,"Companies, agencies, institutions, etc."
+90,CARDINAL,Numerals that do not fall under another type
+93,CARDINAL,Numerals that do not fall under another type
+Carper,PERSON,"People, including fictional"
+161,CARDINAL,Numerals that do not fall under another type
+Emery,PERSON,"People, including fictional"
+Katheryn D.,PERSON,"People, including fictional"
+Division of Water and Waste,ORG,"Companies, agencies, institutions, etc."
+West Virginia,GPE,"Countries, cities, states"
+Department of Environmental,ORG,"Companies, agencies, institutions, etc."
+166,CARDINAL,Numerals that do not fall under another type
+168,CARDINAL,Numerals that do not fall under another type
+Carper,PERSON,"People, including fictional"
+175,CARDINAL,Numerals that do not fall under another type
+Charles Schumer,PERSON,"People, including fictional"
+"the American 
+  Sustainable Business Network",ORG,"Companies, agencies, institutions, etc."
+"March 6, 2023",DATE,Absolute or relative dates or periods
+45,CARDINAL,Numerals that do not fall under another type
+Carper,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+"the California 
+  Association of Sanitation Agencies",ORG,"Companies, agencies, institutions, etc."
+"March 15, 2023",DATE,Absolute or relative dates or periods
+188,CARDINAL,Numerals that do not fall under another type
+Carper,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+American Rivers,ORG,"Companies, agencies, institutions, etc."
+"March 
+  14, 2023",DATE,Absolute or relative dates or periods
+192,CARDINAL,Numerals that do not fall under another type
+the Council of Infrastructure Financing Authorities,ORG,"Companies, agencies, institutions, etc."
+"March 15, 2023",DATE,Absolute or relative dates or periods
+220,CARDINAL,Numerals that do not fall under another type
+IIJA:,LAW,Named documents made into laws.
+"WEDNESDAY, MARCH 15, 2023",DATE,Absolute or relative dates or periods
+U.S. Senate,ORG,"Companies, agencies, institutions, etc."
+Committee on Environment and Public Works,ORG,"Companies, agencies, institutions, etc."
+Washington,GPE,"Countries, cities, states"
+DC,GPE,"Countries, cities, states"
+10:05 a.m.,TIME,Times smaller than a day
+406,CARDINAL,Numerals that do not fall under another type
+Dirksen Senate Office Building,FAC,"Buildings, airports, highways, bridges, etc."
+Thomas R. Carper,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Cardin,PERSON,"People, including fictional"
+Markey,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+Cramer,PERSON,"People, including fictional"
+Lummis,PERSON,"People, including fictional"
+Sullivan,PERSON,"People, including fictional"
+Ricketts,PERSON,"People, including fictional"
+THOMAS R. CARPER,PERSON,"People, including fictional"
+U.S.,GPE,"Countries, cities, states"
+THE STATE OF DELAWARE,GPE,"Countries, cities, states"
+Carper,PERSON,"People, including fictional"
+morning,TIME,Times smaller than a day
+today,DATE,Absolute or relative dates or periods
+"the Bipartisan 
+Infrastructure Law",LAW,Named documents made into laws.
+millions,CARDINAL,Numerals that do not fall under another type
+today,DATE,Absolute or relative dates or periods
+Radhika Fox,PERSON,"People, including fictional"
+EPA,ORG,"Companies, agencies, institutions, etc."
+Office of Water,ORG,"Companies, agencies, institutions, etc."
+Capito,PERSON,"People, including fictional"
+this day,DATE,Absolute or relative dates or periods
+Yesterday,DATE,Absolute or relative dates or periods
+Biden,PERSON,"People, including fictional"
+some 20 years,DATE,Absolute or relative dates or periods
+West Virginia,GPE,"Countries, cities, states"
+Delaware,GPE,"Countries, cities, states"
+48,CARDINAL,Numerals that do not fall under another type
+Regan,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+EPA,ORG,"Companies, agencies, institutions, etc."
+2024,DATE,Absolute or relative dates or periods
+last week,DATE,Absolute or relative dates or periods
+more than $12 billion,MONEY,"Monetary values, including unit"
+EPA,ORG,"Companies, agencies, institutions, etc."
+$1.9 billion,MONEY,"Monetary values, including unit"
+19,PERCENT,"Percentage, including ""%"""
+2023,DATE,Absolute or relative dates or periods
+More than $4,MONEY,"Monetary values, including unit"
+an additional $219 million,MONEY,"Monetary values, including unit"
+Committee,ORG,"Companies, agencies, institutions, etc."
+"the 
+Bipartisan Infrastructure Law",LAW,Named documents made into laws.
+today,DATE,Absolute or relative dates or periods
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+Democrats,NORP,Nationalities or religious or political groups
+Republicans,NORP,Nationalities or religious or political groups
+today,DATE,Absolute or relative dates or periods
+West Virginia,GPE,"Countries, cities, states"
+West Virginia,GPE,"Countries, cities, states"
+West Virginia,GPE,"Countries, cities, states"
+Carper,PERSON,"People, including fictional"
+Committee,ORG,"Companies, agencies, institutions, etc."
+Raleigh County,GPE,"Countries, cities, states"
+West Virginia,GPE,"Countries, cities, states"
+Matthew 25,LAW,Named documents made into laws.
+Americans,NORP,Nationalities or religious or political groups
+Beckley,GPE,"Countries, cities, states"
+2,CARDINAL,Numerals that do not fall under another type
+"those 6 
+years",DATE,Absolute or relative dates or periods
+my first 6 years,DATE,Absolute or relative dates or periods
+Beaver,GPE,"Countries, cities, states"
+Beaver,GPE,"Countries, cities, states"
+Beckley,GPE,"Countries, cities, states"
+Beaver,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Beaver Creek,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Beaver Creek,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+West Virginia,GPE,"Countries, cities, states"
+the years,DATE,Absolute or relative dates or periods
+Capito,PERSON,"People, including fictional"
+Cardin,PERSON,"People, including fictional"
+Lummis,PERSON,"People, including fictional"
+Duckworth,PERSON,"People, including fictional"
+Cramer,PERSON,"People, including fictional"
+Committee,ORG,"Companies, agencies, institutions, etc."
+Committee,ORG,"Companies, agencies, institutions, etc."
+"the 
+Drinking Water and Wastewater Infrastructure Act",LAW,Named documents made into laws.
+EPA,ORG,"Companies, agencies, institutions, etc."
+State Revolving Funds,LAW,Named documents made into laws.
+State,ORG,"Companies, agencies, institutions, etc."
+America,GPE,"Countries, cities, states"
+Committee,ORG,"Companies, agencies, institutions, etc."
+Senate,ORG,"Companies, agencies, institutions, etc."
+89,CARDINAL,Numerals that do not fall under another type
+2,CARDINAL,Numerals that do not fall under another type
+American,NORP,Nationalities or religious or political groups
+Committee,ORG,"Companies, agencies, institutions, etc."
+Committee,ORG,"Companies, agencies, institutions, etc."
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+Biden,PERSON,"People, including fictional"
+November 2021,DATE,Absolute or relative dates or periods
+a happy day,DATE,Absolute or relative dates or periods
+The Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+"an unprecedented 
+$55 billion",MONEY,"Monetary values, including unit"
+$55 billion,MONEY,"Monetary values, including unit"
+billion,CARDINAL,Numerals that do not fall under another type
+EPA,ORG,"Companies, agencies, institutions, etc."
+American,NORP,Nationalities or religious or political groups
+Today,DATE,Absolute or relative dates or periods
+"Bipartisan Infrastructure 
+Law",LAW,Named documents made into laws.
+today,DATE,Absolute or relative dates or periods
+Capito,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+SHELLEY MOORE CAPITO,PERSON,"People, including fictional"
+U.S.,GPE,"Countries, cities, states"
+THE STATE OF WEST VIRGINIA,GPE,"Countries, cities, states"
+Capito,PERSON,"People, including fictional"
+today,DATE,Absolute or relative dates or periods
+Fox,PERSON,"People, including fictional"
+today,DATE,Absolute or relative dates or periods
+many,DATE,Absolute or relative dates or periods
+Today,DATE,Absolute or relative dates or periods
+Americans,NORP,Nationalities or religious or political groups
+Committee,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+America,GPE,"Countries, cities, states"
+The DWWIA,LAW,Named documents made into laws.
+Committee,ORG,"Companies, agencies, institutions, etc."
+the Infrastructure Investment and Jobs Act,LAW,Named documents made into laws.
+IIJA,LAW,Named documents made into laws.
+IIJA,ORG,"Companies, agencies, institutions, etc."
+$55 billion,MONEY,"Monetary values, including unit"
+States,GPE,"Countries, cities, states"
+IIJA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+States,ORG,"Companies, agencies, institutions, etc."
+Federal,ORG,"Companies, agencies, institutions, etc."
+the Safe Drinking Water Act,LAW,Named documents made into laws.
+"Clean 
+Water Act",LAW,Named documents made into laws.
+Congress,ORG,"Companies, agencies, institutions, etc."
+Administration,ORG,"Companies, agencies, institutions, etc."
+West Virginia,GPE,"Countries, cities, states"
+Congress,ORG,"Companies, agencies, institutions, etc."
+DWWIA,LAW,Named documents made into laws.
+EPA,ORG,"Companies, agencies, institutions, etc."
+West Virginia,GPE,"Countries, cities, states"
+Kathy Emery,PERSON,"People, including fictional"
+West Virginia,GPE,"Countries, cities, states"
+Raleigh County,GPE,"Countries, cities, states"
+Roy,PERSON,"People, including fictional"
+Taylor,PERSON,"People, including fictional"
+"West 
+Virginia University",GPE,"Countries, cities, states"
+West Virginia University,GPE,"Countries, cities, states"
+Carper,PERSON,"People, including fictional"
+Raleigh County,GPE,"Countries, cities, states"
+Raleigh,GPE,"Countries, cities, states"
+today,DATE,Absolute or relative dates or periods
+Delaware,GPE,"Countries, cities, states"
+The other day,DATE,Absolute or relative dates or periods
+States,GPE,"Countries, cities, states"
+first,ORDINAL,"""first"", ""second"", etc."
+today,DATE,Absolute or relative dates or periods
+Radhika Fox,PERSON,"People, including fictional"
+the U.S. Environmental Protection Agency's,ORG,"Companies, agencies, institutions, etc."
+Office of Water,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+HON.,PERSON,"People, including fictional"
+RADHIKA FOX,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+morning,TIME,Times smaller than a day
+Carper,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Committee,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+Committee,ORG,"Companies, agencies, institutions, etc."
+over $50 billion,MONEY,"Monetary values, including unit"
+America,GPE,"Countries, cities, states"
+a moment,TIME,Times smaller than a day
+EPA,ORG,"Companies, agencies, institutions, etc."
+"the 
+Office of Groundwater and Drinking Water",ORG,"Companies, agencies, institutions, etc."
+today,DATE,Absolute or relative dates or periods
+"the 
+Bipartisan Infrastructure Law",LAW,Named documents made into laws.
+American,NORP,Nationalities or religious or political groups
+EPA,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+about $43 billion,MONEY,"Monetary values, including unit"
+March 2022,DATE,Absolute or relative dates or periods
+EPA,ORG,"Companies, agencies, institutions, etc."
+one,CARDINAL,Numerals that do not fall under another type
+States,GPE,"Countries, cities, states"
+America,GPE,"Countries, cities, states"
+States,GPE,"Countries, cities, states"
+State,ORG,"Companies, agencies, institutions, etc."
+States,GPE,"Countries, cities, states"
+"the Bipartisan Infrastructure 
+Law",LAW,Named documents made into laws.
+about 1 year later,DATE,Absolute or relative dates or periods
+47,CARDINAL,Numerals that do not fall under another type
+six,CARDINAL,Numerals that do not fall under another type
+nearly $5 billion,MONEY,"Monetary values, including unit"
+the first year,DATE,Absolute or relative dates or periods
+a minute,TIME,Times smaller than a day
+"Sierra Vista RV 
+Park",FAC,"Buildings, airports, highways, bridges, etc."
+Arizona,GPE,"Countries, cities, states"
+Sussex,GPE,"Countries, cities, states"
+Delaware,GPE,"Countries, cities, states"
+hundreds,CARDINAL,Numerals that do not fall under another type
+the Delaware Bay,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Pittsburgh,GPE,"Countries, cities, states"
+"nearly 1,000",CARDINAL,Numerals that do not fall under another type
+thousands,CARDINAL,Numerals that do not fall under another type
+America,GPE,"Countries, cities, states"
+"the 
+Bipartisan Infrastructure Law",LAW,Named documents made into laws.
+"The 
+Bipartisan Infrastructure Law",LAW,Named documents made into laws.
+"the Emerging 
+Contaminants and Smaller Disadvantaged Communities Grant",ORG,"Companies, agencies, institutions, etc."
+Just a few weeks ago,DATE,Absolute or relative dates or periods
+first,ORDINAL,"""first"", ""second"", etc."
+$2,MONEY,"Monetary values, including unit"
+The Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+"nearly 
+$2 billion",MONEY,"Monetary values, including unit"
+Geographic National Estuary,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Gulf Hypoxia,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+the Chesapeake Bay,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+the Great Lakes,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+the Mississippi River,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+the Gulf of Mexico,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+the San Francisco Bay,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+"the Bipartisan 
+Infrastructure Law",LAW,Named documents made into laws.
+$50 million,MONEY,"Monetary values, including unit"
+States,ORG,"Companies, agencies, institutions, etc."
+States,ORG,"Companies, agencies, institutions, etc."
+States,ORG,"Companies, agencies, institutions, etc."
+the end of this year,DATE,Absolute or relative dates or periods
+Capito,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Federal,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+States,ORG,"Companies, agencies, institutions, etc."
+McDowell County,GPE,"Countries, cities, states"
+West,GPE,"Countries, cities, states"
+Virginia,GPE,"Countries, cities, states"
+Lowndes County,GPE,"Countries, cities, states"
+Alabama,GPE,"Countries, cities, states"
+29,CARDINAL,Numerals that do not fall under another type
+Closing the Wastewater Access Gap,WORK_OF_ART,"Titles of books, songs, etc."
+Lead Service Line Accelerators,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+Biden,PERSON,"People, including fictional"
+EPA,ORG,"Companies, agencies, institutions, etc."
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+Americans,NORP,Nationalities or religious or political groups
+American,NORP,Nationalities or religious or political groups
+today,DATE,Absolute or relative dates or periods
+Fox,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+today,DATE,Absolute or relative dates or periods
+EPA,ORG,"Companies, agencies, institutions, etc."
+Capito,PERSON,"People, including fictional"
+Committee,ORG,"Companies, agencies, institutions, etc."
+last week,DATE,Absolute or relative dates or periods
+East Palestine,GPE,"Countries, cities, states"
+East Palestine,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+America,GPE,"Countries, cities, states"
+Fox,PERSON,"People, including fictional"
+two,CARDINAL,Numerals that do not fall under another type
+today,DATE,Absolute or relative dates or periods
+EPA,ORG,"Companies, agencies, institutions, etc."
+yesterday,DATE,Absolute or relative dates or periods
+six,CARDINAL,Numerals that do not fall under another type
+Regan,PERSON,"People, including fictional"
+Biden,PERSON,"People, including fictional"
+EPA,ORG,"Companies, agencies, institutions, etc."
+yesterday,DATE,Absolute or relative dates or periods
+Fox,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Committee,ORG,"Companies, agencies, institutions, etc."
+Capito,PERSON,"People, including fictional"
+yesterday,DATE,Absolute or relative dates or periods
+the 2 years,DATE,Absolute or relative dates or periods
+American,NORP,Nationalities or religious or political groups
+yesterday,DATE,Absolute or relative dates or periods
+dozen,CARDINAL,Numerals that do not fall under another type
+States,GPE,"Countries, cities, states"
+six,CARDINAL,Numerals that do not fall under another type
+four,CARDINAL,Numerals that do not fall under another type
+trillion,CARDINAL,Numerals that do not fall under another type
+"Four parts 
+per trillion is",QUANTITY,"Measurements, as of weight or distance"
+four,CARDINAL,Numerals that do not fall under another type
+four,CARDINAL,Numerals that do not fall under another type
+four,CARDINAL,Numerals that do not fall under another type
+four,CARDINAL,Numerals that do not fall under another type
+American,NORP,Nationalities or religious or political groups
+60 day,DATE,Absolute or relative dates or periods
+State,ORG,"Companies, agencies, institutions, etc."
+2023,DATE,Absolute or relative dates or periods
+2024,DATE,Absolute or relative dates or periods
+Committee,ORG,"Companies, agencies, institutions, etc."
+PFAS,ORG,"Companies, agencies, institutions, etc."
+Carper,PERSON,"People, including fictional"
+One,CARDINAL,Numerals that do not fall under another type
+Capito,PERSON,"People, including fictional"
+Cramer,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+yesterday,DATE,Absolute or relative dates or periods
+several months ago,DATE,Absolute or relative dates or periods
+a year ago,DATE,Absolute or relative dates or periods
+EPA,ORG,"Companies, agencies, institutions, etc."
+today,DATE,Absolute or relative dates or periods
+4,CARDINAL,Numerals that do not fall under another type
+Yesterday,DATE,Absolute or relative dates or periods
+the day before,DATE,Absolute or relative dates or periods
+"1,800",CARDINAL,Numerals that do not fall under another type
+EPA,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+CERCLA,LAW,Named documents made into laws.
+Congress,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+CERCLA,LAW,Named documents made into laws.
+"Office 
+of Land and Emergency Management",ORG,"Companies, agencies, institutions, etc."
+one,CARDINAL,Numerals that do not fall under another type
+Office of Water,ORG,"Companies, agencies, institutions, etc."
+"the 
+Office of Land and Emergency Management",ORG,"Companies, agencies, institutions, etc."
+CERCLA hazardous designation rule,LAW,Named documents made into laws.
+CERCLA,LAW,Named documents made into laws.
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+States,ORG,"Companies, agencies, institutions, etc."
+$9 billion,MONEY,"Monetary values, including unit"
+Capito,PERSON,"People, including fictional"
+DC,GPE,"Countries, cities, states"
+States,GPE,"Countries, cities, states"
+West Virginia,GPE,"Countries, cities, states"
+Fox,PERSON,"People, including fictional"
+"the Bipartisan 
+Infrastructure Law",LAW,Named documents made into laws.
+States,ORG,"Companies, agencies, institutions, etc."
+Capito,PERSON,"People, including fictional"
+thousands,CARDINAL,Numerals that do not fall under another type
+One,CARDINAL,Numerals that do not fall under another type
+SRF,LAW,Named documents made into laws.
+Clean Water SRF,LAW,Named documents made into laws.
+Drinking Water SRF,LAW,Named documents made into laws.
+States,ORG,"Companies, agencies, institutions, etc."
+"the 
+Safe Drinking Water Act",LAW,Named documents made into laws.
+Clean Water Act,LAW,Named documents made into laws.
+Capito,PERSON,"People, including fictional"
+States,GPE,"Countries, cities, states"
+EPA,ORG,"Companies, agencies, institutions, etc."
+Transportation,ORG,"Companies, agencies, institutions, etc."
+Administration,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+Cramer,PERSON,"People, including fictional"
+Cramer,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+First,ORDINAL,"""first"", ""second"", etc."
+North Dakota,GPE,"Countries, cities, states"
+2021,DATE,Absolute or relative dates or periods
+WOTUS,ORG,"Companies, agencies, institutions, etc."
+State,ORG,"Companies, agencies, institutions, etc."
+WOTUS,ORG,"Companies, agencies, institutions, etc."
+SRF,ORG,"Companies, agencies, institutions, etc."
+the State Revolving Fund,LAW,Named documents made into laws.
+"the 
+Infrastructure Bill",LAW,Named documents made into laws.
+State,ORG,"Companies, agencies, institutions, etc."
+Build,ORG,"Companies, agencies, institutions, etc."
+WIFIA,ORG,"Companies, agencies, institutions, etc."
+SRF,ORG,"Companies, agencies, institutions, etc."
+State,ORG,"Companies, agencies, institutions, etc."
+North Dakota,GPE,"Countries, cities, states"
+North Dakota,GPE,"Countries, cities, states"
+Waters,PERSON,"People, including fictional"
+Regan,PERSON,"People, including fictional"
+2021,DATE,Absolute or relative dates or periods
+2015,DATE,Absolute or relative dates or periods
+Trump,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+North Dakota,GPE,"Countries, cities, states"
+State,ORG,"Companies, agencies, institutions, etc."
+North Dakota,GPE,"Countries, cities, states"
+Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+year one,DATE,Absolute or relative dates or periods
+North Dakota,GPE,"Countries, cities, states"
+Waters of the United States,ORG,"Companies, agencies, institutions, etc."
+North Dakota,GPE,"Countries, cities, states"
+Waters of the United States,ORG,"Companies, agencies, institutions, etc."
+Regan,PERSON,"People, including fictional"
+Waters,PERSON,"People, including fictional"
+the United,GPE,"Countries, cities, states"
+the Obama Clean Water Rule,LAW,Named documents made into laws.
+Waters of the United States,LAW,Named documents made into laws.
+"the 
+Obama Rule",LAW,Named documents made into laws.
+the Trump Navigable Waters Rule,LAW,Named documents made into laws.
+August 2021,DATE,Absolute or relative dates or periods
+One,CARDINAL,Numerals that do not fall under another type
+North,GPE,"Countries, cities, states"
+One,CARDINAL,Numerals that do not fall under another type
+2023,DATE,Absolute or relative dates or periods
+Army Corps,ORG,"Companies, agencies, institutions, etc."
+One,CARDINAL,Numerals that do not fall under another type
+2020,DATE,Absolute or relative dates or periods
+eight,CARDINAL,Numerals that do not fall under another type
+North,GPE,"Countries, cities, states"
+Dakota,GPE,"Countries, cities, states"
+USDA,ORG,"Companies, agencies, institutions, etc."
+USDA,ORG,"Companies, agencies, institutions, etc."
+Federal,ORG,"Companies, agencies, institutions, etc."
+One,CARDINAL,Numerals that do not fall under another type
+EPA,ORG,"Companies, agencies, institutions, etc."
+Army,ORG,"Companies, agencies, institutions, etc."
+USDA,ORG,"Companies, agencies, institutions, etc."
+"Waters of the 
+United States",FAC,"Buildings, airports, highways, bridges, etc."
+Cramer,PERSON,"People, including fictional"
+Republican,NORP,Nationalities or religious or political groups
+today,DATE,Absolute or relative dates or periods
+Cramer,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Cardin,PERSON,"People, including fictional"
+Cardin,PERSON,"People, including fictional"
+generations,DATE,Absolute or relative dates or periods
+Baltimore City,GPE,"Countries, cities, states"
+Baltimore City,GPE,"Countries, cities, states"
+100 years ago,DATE,Absolute or relative dates or periods
+today,DATE,Absolute or relative dates or periods
+Baltimore,GPE,"Countries, cities, states"
+One,CARDINAL,Numerals that do not fall under another type
+"the 
+Bipartisan Infrastructure Law",LAW,Named documents made into laws.
+the State Revolving Funds,LAW,Named documents made into laws.
+Congress,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+One,CARDINAL,Numerals that do not fall under another type
+"the 
+Bipartisan Infrastructure Law",LAW,Named documents made into laws.
+"about 49 
+percent",PERCENT,"Percentage, including ""%"""
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+one,CARDINAL,Numerals that do not fall under another type
+29,CARDINAL,Numerals that do not fall under another type
+EPA,ORG,"Companies, agencies, institutions, etc."
+"the San 
+Francisco Public Utilities Commission",ORG,"Companies, agencies, institutions, etc."
+Committee,ORG,"Companies, agencies, institutions, etc."
+thousands,CARDINAL,Numerals that do not fall under another type
+Cardin,PERSON,"People, including fictional"
+Baltimore City,GPE,"Countries, cities, states"
+Smith Island,GPE,"Countries, cities, states"
+one,CARDINAL,Numerals that do not fall under another type
+$3 million,MONEY,"Monetary values, including unit"
+"fiscal 
+year 2023",DATE,Absolute or relative dates or periods
+Wicker,PERSON,"People, including fictional"
+today,DATE,Absolute or relative dates or periods
+LIHEAP,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+$50 billion,MONEY,"Monetary values, including unit"
+the Federal Government,ORG,"Companies, agencies, institutions, etc."
+the U.S. Water Alliance,ORG,"Companies, agencies, institutions, etc."
+HHS,ORG,"Companies, agencies, institutions, etc."
+Cardin,PERSON,"People, including fictional"
+Wicker,PERSON,"People, including fictional"
+HHS,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+Cardin,PERSON,"People, including fictional"
+the American Sustainable Business Network,ORG,"Companies, agencies, institutions, etc."
+more than 400,CARDINAL,Numerals that do not fall under another type
+the Congressional Review Act,LAW,Named documents made into laws.
+2023,DATE,Absolute or relative dates or periods
+Capito,PERSON,"People, including fictional"
+Cardin,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Lummis,PERSON,"People, including fictional"
+Lummis,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+Cramer,PERSON,"People, including fictional"
+North,GPE,"Countries, cities, states"
+Dakota,GPE,"Countries, cities, states"
+today,DATE,Absolute or relative dates or periods
+EPA,ORG,"Companies, agencies, institutions, etc."
+months,DATE,Absolute or relative dates or periods
+the summer of 2020,DATE,Absolute or relative dates or periods
+60 days,DATE,Absolute or relative dates or periods
+Fox,PERSON,"People, including fictional"
+12,CARDINAL,Numerals that do not fall under another type
+States,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+12,CARDINAL,Numerals that do not fall under another type
+Lummis,PERSON,"People, including fictional"
+Regan,PERSON,"People, including fictional"
+"January 25th, 2023",DATE,Absolute or relative dates or periods
+EPA,ORG,"Companies, agencies, institutions, etc."
+State,ORG,"Companies, agencies, institutions, etc."
+Capito,PERSON,"People, including fictional"
+Lummis,PERSON,"People, including fictional"
+EPA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+"the American Water 
+Works Association",ORG,"Companies, agencies, institutions, etc."
+National Association of Clean Water,ORG,"Companies, agencies, institutions, etc."
+National Rural Water Association,ORG,"Companies, agencies, institutions, etc."
+U.S. Conference of,ORG,"Companies, agencies, institutions, etc."
+National Association of Counties,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+EPA,ORG,"Companies, agencies, institutions, etc."
+State,ORG,"Companies, agencies, institutions, etc."
+this modern age,DATE,Absolute or relative dates or periods
+one,CARDINAL,Numerals that do not fall under another type
+"the 
+Association of State Drinking Water Administrators",ORG,"Companies, agencies, institutions, etc."
+State,ORG,"Companies, agencies, institutions, etc."
+Lummis,PERSON,"People, including fictional"
+Regan,PERSON,"People, including fictional"
+EPA,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Lummis,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+morning,TIME,Times smaller than a day
+Kelly,PERSON,"People, including fictional"
+morning,TIME,Times smaller than a day
+Fox,PERSON,"People, including fictional"
+today,DATE,Absolute or relative dates or periods
+yesterday,DATE,Absolute or relative dates or periods
+EPA,ORG,"Companies, agencies, institutions, etc."
+the Army Corps,ORG,"Companies, agencies, institutions, etc."
+"Waters of 
+the United States",LAW,Named documents made into laws.
+Congress,ORG,"Companies, agencies, institutions, etc."
+the Congressional Review Act,LAW,Named documents made into laws.
+Sinema,PERSON,"People, including fictional"
+two,CARDINAL,Numerals that do not fall under another type
+EPA,ORG,"Companies, agencies, institutions, etc."
+Corps,ORG,"Companies, agencies, institutions, etc."
+last week,DATE,Absolute or relative dates or periods
+a minute,TIME,Times smaller than a day
+CRA,ORG,"Companies, agencies, institutions, etc."
+2023,DATE,Absolute or relative dates or periods
+Trump,PERSON,"People, including fictional"
+Navigable Waters Protection,LAW,Named documents made into laws.
+Fox,PERSON,"People, including fictional"
+August,DATE,Absolute or relative dates or periods
+Kelly,PERSON,"People, including fictional"
+2025,DATE,Absolute or relative dates or periods
+Obama,PERSON,"People, including fictional"
+WOTUS,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+pre-2015,DATE,Absolute or relative dates or periods
+WOTUS,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+WOTUS,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+the Army Corps,ORG,"Companies, agencies, institutions, etc."
+this January,DATE,Absolute or relative dates or periods
+Fox,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+CRA,ORG,"Companies, agencies, institutions, etc."
+pre-2015,DATE,Absolute or relative dates or periods
+Waters,LAW,Named documents made into laws.
+the United States,GPE,"Countries, cities, states"
+2023,DATE,Absolute or relative dates or periods
+2023,DATE,Absolute or relative dates or periods
+Waters,LAW,Named documents made into laws.
+the United States,GPE,"Countries, cities, states"
+CRA,ORG,"Companies, agencies, institutions, etc."
+2015,DATE,Absolute or relative dates or periods
+two,CARDINAL,Numerals that do not fall under another type
+2023,DATE,Absolute or relative dates or periods
+2015,DATE,Absolute or relative dates or periods
+the 2015,DATE,Absolute or relative dates or periods
+2023,DATE,Absolute or relative dates or periods
+CRA,ORG,"Companies, agencies, institutions, etc."
+Cramer,PERSON,"People, including fictional"
+just a moment ago,TIME,Times smaller than a day
+CRA,ORG,"Companies, agencies, institutions, etc."
+Kelly,PERSON,"People, including fictional"
+2023,DATE,Absolute or relative dates or periods
+Fox,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+the 2015,DATE,Absolute or relative dates or periods
+CRA,ORG,"Companies, agencies, institutions, etc."
+Waters of the United States,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+CRA,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+Waters of the United States,LAW,Named documents made into laws.
+USDA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+Army Corps,ORG,"Companies, agencies, institutions, etc."
+Waters of the United States,ORG,"Companies, agencies, institutions, etc."
+Committee,ORG,"Companies, agencies, institutions, etc."
+Kelly,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+one,CARDINAL,Numerals that do not fall under another type
+Committee,ORG,"Companies, agencies, institutions, etc."
+Ricketts,PERSON,"People, including fictional"
+Sullivan,PERSON,"People, including fictional"
+Ricketts,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+Cardin,PERSON,"People, including fictional"
+Nebraska,GPE,"Countries, cities, states"
+EPA,ORG,"Companies, agencies, institutions, etc."
+Tuesday,DATE,Absolute or relative dates or periods
+first,ORDINAL,"""first"", ""second"", etc."
+six,CARDINAL,Numerals that do not fall under another type
+Fox,PERSON,"People, including fictional"
+the Office of Water,ORG,"Companies, agencies, institutions, etc."
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+One,CARDINAL,Numerals that do not fall under another type
+Congress,ORG,"Companies, agencies, institutions, etc."
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+$5,MONEY,"Monetary values, including unit"
+America,GPE,"Countries, cities, states"
+29,CARDINAL,Numerals that do not fall under another type
+National Rural Water,ORG,"Companies, agencies, institutions, etc."
+RCAP,ORG,"Companies, agencies, institutions, etc."
+"the Rural Community 
+Assistance Program",ORG,"Companies, agencies, institutions, etc."
+America,GPE,"Countries, cities, states"
+America,GPE,"Countries, cities, states"
+Ricketts,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+Ricketts,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+States,GPE,"Countries, cities, states"
+SRF State,ORG,"Companies, agencies, institutions, etc."
+night,TIME,Times smaller than a day
+State,ORG,"Companies, agencies, institutions, etc."
+Ricketts,PERSON,"People, including fictional"
+Congress,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+States,GPE,"Countries, cities, states"
+Oklahoma,GPE,"Countries, cities, states"
+States,GPE,"Countries, cities, states"
+Ricketts,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Ricketts,PERSON,"People, including fictional"
+Sullivan,PERSON,"People, including fictional"
+morning,TIME,Times smaller than a day
+Sullivan,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+America,GPE,"Countries, cities, states"
+Alaska,GPE,"Countries, cities, states"
+the last 25 years,DATE,Absolute or relative dates or periods
+from 1980 to 2014,DATE,Absolute or relative dates or periods
+America,GPE,"Countries, cities, states"
+Americans,NORP,Nationalities or religious or political groups
+North,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Aleutian Island,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+"the 
+last 25 years",DATE,Absolute or relative dates or periods
+up to 13 years,DATE,Absolute or relative dates or periods
+1980 to 2014,DATE,Absolute or relative dates or periods
+Alaska,GPE,"Countries, cities, states"
+Alaska,GPE,"Countries, cities, states"
+Fox,PERSON,"People, including fictional"
+Sullivan,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+Sullivan,PERSON,"People, including fictional"
+Willow,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Alaska Native,NORP,Nationalities or religious or political groups
+Alaska,GPE,"Countries, cities, states"
+State,GPE,"Countries, cities, states"
+Ambler,GPE,"Countries, cities, states"
+7 year,DATE,Absolute or relative dates or periods
+$10 million,MONEY,"Monetary values, including unit"
+The same day,DATE,Absolute or relative dates or periods
+the White House,ORG,"Companies, agencies, institutions, etc."
+China,GPE,"Countries, cities, states"
+Alaska,GPE,"Countries, cities, states"
+the Department of Interior,ORG,"Companies, agencies, institutions, etc."
+Haaland,PERSON,"People, including fictional"
+EPA,ORG,"Companies, agencies, institutions, etc."
+Pebble,EVENT,"Named hurricanes, battles, wars, sports events, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+Alaska,GPE,"Countries, cities, states"
+Regan,PERSON,"People, including fictional"
+EPA,ORG,"Companies, agencies, institutions, etc."
+Alaska,GPE,"Countries, cities, states"
+Alaska,GPE,"Countries, cities, states"
+Deb Haaland,PERSON,"People, including fictional"
+Ambler,PERSON,"People, including fictional"
+yesterday,DATE,Absolute or relative dates or periods
+King Cove Road,FAC,"Buildings, airports, highways, bridges, etc."
+Native,NORP,Nationalities or religious or political groups
+Alaska,GPE,"Countries, cities, states"
+Native,NORP,Nationalities or religious or political groups
+Fox,PERSON,"People, including fictional"
+Sullivan,PERSON,"People, including fictional"
+the Bethel Airport,FAC,"Buildings, airports, highways, bridges, etc."
+this past summer,DATE,Absolute or relative dates or periods
+Alaska Native,NORP,Nationalities or religious or political groups
+EPA,ORG,"Companies, agencies, institutions, etc."
+only three,CARDINAL,Numerals that do not fall under another type
+the last 30 years,DATE,Absolute or relative dates or periods
+three,CARDINAL,Numerals that do not fall under another type
+Regan,PERSON,"People, including fictional"
+Bristol Bay,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Sullivan,PERSON,"People, including fictional"
+one,CARDINAL,Numerals that do not fall under another type
+annual,DATE,Absolute or relative dates or periods
+the Tanana Chiefs Conference,ORG,"Companies, agencies, institutions, etc."
+yesterday,DATE,Absolute or relative dates or periods
+Alaska,GPE,"Countries, cities, states"
+30,CARDINAL,Numerals that do not fall under another type
+Alaska,GPE,"Countries, cities, states"
+America,GPE,"Countries, cities, states"
+Alaska Natives,NORP,Nationalities or religious or political groups
+"the 
+Infrastructure Bill",LAW,Named documents made into laws.
+American,NORP,Nationalities or religious or political groups
+Fox,PERSON,"People, including fictional"
+first,ORDINAL,"""first"", ""second"", etc."
+Alaska,GPE,"Countries, cities, states"
+last,DATE,Absolute or relative dates or periods
+August,DATE,Absolute or relative dates or periods
+"the 
+Bipartisan Infrastructure Law",LAW,Named documents made into laws.
+Biden,PERSON,"People, including fictional"
+Congress,ORG,"Companies, agencies, institutions, etc."
+$50 billion,MONEY,"Monetary values, including unit"
+Sullivan,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+Fox,PERSON,"People, including fictional"
+Congress,ORG,"Companies, agencies, institutions, etc."
+Federal,ORG,"Companies, agencies, institutions, etc."
+Biden,PERSON,"People, including fictional"
+Justice 40,LAW,Named documents made into laws.
+EPA,ORG,"Companies, agencies, institutions, etc."
+Federal,ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+States,GPE,"Countries, cities, states"
+CIFA,ORG,"Companies, agencies, institutions, etc."
+"the Council of Infrastructure 
+Financing Authorities",ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+States,GPE,"Countries, cities, states"
+States,GPE,"Countries, cities, states"
+annual,DATE,Absolute or relative dates or periods
+States,GPE,"Countries, cities, states"
+the Federal,ORG,"Companies, agencies, institutions, etc."
+One,CARDINAL,Numerals that do not fall under another type
+States,GPE,"Countries, cities, states"
+States,GPE,"Countries, cities, states"
+Carper,PERSON,"People, including fictional"
+One,CARDINAL,Numerals that do not fall under another type
+Biden,PERSON,"People, including fictional"
+The Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+$15 billion,MONEY,"Monetary values, including unit"
+the years,DATE,Absolute or relative dates or periods
+States,GPE,"Countries, cities, states"
+Delaware,GPE,"Countries, cities, states"
+States,GPE,"Countries, cities, states"
+States,GPE,"Countries, cities, states"
+Fox,PERSON,"People, including fictional"
+One,CARDINAL,Numerals that do not fall under another type
+Biden,PERSON,"People, including fictional"
+EPA,ORG,"Companies, agencies, institutions, etc."
+States,GPE,"Countries, cities, states"
+2 years,DATE,Absolute or relative dates or periods
+first,ORDINAL,"""first"", ""second"", etc."
+those 2 years,DATE,Absolute or relative dates or periods
+States,ORG,"Companies, agencies, institutions, etc."
+Carper,PERSON,"People, including fictional"
+today,DATE,Absolute or relative dates or periods
+West Virginia,GPE,"Countries, cities, states"
+Virginia,GPE,"Countries, cities, states"
+Delaware,GPE,"Countries, cities, states"
+"about 173,000",CARDINAL,Numerals that do not fall under another type
+Delaware,GPE,"Countries, cities, states"
+a million,CARDINAL,Numerals that do not fall under another type
+"about 173,000",CARDINAL,Numerals that do not fall under another type
+Congress,ORG,"Companies, agencies, institutions, etc."
+"the Drinking Water and 
+Wastewater Infrastructure Act",LAW,Named documents made into laws.
+EPA,ORG,"Companies, agencies, institutions, etc."
+States,GPE,"Countries, cities, states"
+EPA,ORG,"Companies, agencies, institutions, etc."
+States,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+"the Safe 
+Drinking Water Act",LAW,Named documents made into laws.
+Congress,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+States,ORG,"Companies, agencies, institutions, etc."
+today,DATE,Absolute or relative dates or periods
+"this Committee on the Environment and Public 
+Works",ORG,"Companies, agencies, institutions, etc."
+Fox,PERSON,"People, including fictional"
+Committee,ORG,"Companies, agencies, institutions, etc."
+Carper,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+The Pacific Ocean,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Carper,PERSON,"People, including fictional"
+today,DATE,Absolute or relative dates or periods
+Navy,ORG,"Companies, agencies, institutions, etc."
+"Moffett Field Naval 
+Air Station",FAC,"Buildings, airports, highways, bridges, etc."
+two,CARDINAL,Numerals that do not fall under another type
+NASA,ORG,"Companies, agencies, institutions, etc."
+P3s,PRODUCT,"Objects, vehicles, foods, etc. (not services)"
+four,CARDINAL,Numerals that do not fall under another type
+NASA,ORG,"Companies, agencies, institutions, etc."
+Early one morning,TIME,Times smaller than a day
+two,CARDINAL,Numerals that do not fall under another type
+two,CARDINAL,Numerals that do not fall under another type
+Navy,ORG,"Companies, agencies, institutions, etc."
+P3,PRODUCT,"Objects, vehicles, foods, etc. (not services)"
+NASA,ORG,"Companies, agencies, institutions, etc."
+NASA,ORG,"Companies, agencies, institutions, etc."
+P3,PRODUCT,"Objects, vehicles, foods, etc. (not services)"
+about 18,CARDINAL,Numerals that do not fall under another type
+18,CARDINAL,Numerals that do not fall under another type
+About 28 years later,DATE,Absolute or relative dates or periods
+Delaware,GPE,"Countries, cities, states"
+Rehobeth,GPE,"Countries, cities, states"
+"Dover 
+Air Force Base",FAC,"Buildings, airports, highways, bridges, etc."
+"Route 
+1",FAC,"Buildings, airports, highways, bridges, etc."
+the Air Force Base,FAC,"Buildings, airports, highways, bridges, etc."
+C5,PRODUCT,"Objects, vehicles, foods, etc. (not services)"
+Dover Air Force Base,FAC,"Buildings, airports, highways, bridges, etc."
+four,CARDINAL,Numerals that do not fall under another type
+C5,PRODUCT,"Objects, vehicles, foods, etc. (not services)"
+one,CARDINAL,Numerals that do not fall under another type
+four,CARDINAL,Numerals that do not fall under another type
+four,CARDINAL,Numerals that do not fall under another type
+two,CARDINAL,Numerals that do not fall under another type
+about a mile,QUANTITY,"Measurements, as of weight or distance"
+"the Dover Air Force 
+Base",FAC,"Buildings, airports, highways, bridges, etc."
+four,CARDINAL,Numerals that do not fall under another type
+Dover Air Force Base,FAC,"Buildings, airports, highways, bridges, etc."
+Delaware,GPE,"Countries, cities, states"
+West,GPE,"Countries, cities, states"
+Virginia,GPE,"Countries, cities, states"
+Capito,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+second,ORDINAL,"""first"", ""second"", etc."
+Good morning,TIME,Times smaller than a day
+Randy Hayman,PERSON,"People, including fictional"
+"the Philadelphia 
+Water Department",ORG,"Companies, agencies, institutions, etc."
+2019,DATE,Absolute or relative dates or periods
+Jim Kenney,PERSON,"People, including fictional"
+today,DATE,Absolute or relative dates or periods
+RANDY E. HAYMAN,PERSON,"People, including fictional"
+PHILADELPHIA WATER DEPARTMENT,ORG,"Companies, agencies, institutions, etc."
+Hayman,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Committee,ORG,"Companies, agencies, institutions, etc."
+"the Infrastructure Investment and 
+Jobs Act",LAW,Named documents made into laws.
+"the Drinking Water and Wastewater Infrastructure 
+Act",LAW,Named documents made into laws.
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+"the Philadelphia Water 
+Department",ORG,"Companies, agencies, institutions, etc."
+the Board of Directors,ORG,"Companies, agencies, institutions, etc."
+"the 
+Association of Metropolitan Water Agencies",ORG,"Companies, agencies, institutions, etc."
+Committee,ORG,"Companies, agencies, institutions, etc."
+"Drinking 
+Water",LAW,Named documents made into laws.
+BIL,LAW,Named documents made into laws.
+AMWA,ORG,"Companies, agencies, institutions, etc."
+DWWIA,LAW,Named documents made into laws.
+"the Drinking Water and Wastewater 
+Infrastructure Act",LAW,Named documents made into laws.
+Senate,ORG,"Companies, agencies, institutions, etc."
+89,CARDINAL,Numerals that do not fall under another type
+2,CARDINAL,Numerals that do not fall under another type
+the Infrastructure Law,LAW,Named documents made into laws.
+2019,DATE,Absolute or relative dates or periods
+Philadelphia,GPE,"Countries, cities, states"
+25 year,DATE,Absolute or relative dates or periods
+multi-billion dollar,MONEY,"Monetary values, including unit"
+an estimated 400,CARDINAL,Numerals that do not fall under another type
+DWWIA,LAW,Named documents made into laws.
+last month,DATE,Absolute or relative dates or periods
+Biden,PERSON,"People, including fictional"
+Philadelphia,GPE,"Countries, cities, states"
+$500 million,MONEY,"Monetary values, including unit"
+Carper,PERSON,"People, including fictional"
+Hayman,PERSON,"People, including fictional"
+Five hundred million,MONEY,"Monetary values, including unit"
+$160 million,MONEY,"Monetary values, including unit"
+Pennsylvania,GPE,"Countries, cities, states"
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+more than 19 miles,QUANTITY,"Measurements, as of weight or distance"
+January,DATE,Absolute or relative dates or periods
+Philadelphia,GPE,"Countries, cities, states"
+$19.8,MONEY,"Monetary values, including unit"
+EPA,ORG,"Companies, agencies, institutions, etc."
+WIFIA,ORG,"Companies, agencies, institutions, etc."
+15 miles,QUANTITY,"Measurements, as of weight or distance"
+approximately 160,QUANTITY,"Measurements, as of weight or distance"
+first,ORDINAL,"""first"", ""second"", etc."
+$340 million,MONEY,"Monetary values, including unit"
+WIFIA,ORG,"Companies, agencies, institutions, etc."
+Philadelphia,GPE,"Countries, cities, states"
+EPA,ORG,"Companies, agencies, institutions, etc."
+WIFIA,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+WIFIA,ORG,"Companies, agencies, institutions, etc."
+DWWIA,ORG,"Companies, agencies, institutions, etc."
+years,DATE,Absolute or relative dates or periods
+WIFIA,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+DWWIA,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+One,CARDINAL,Numerals that do not fall under another type
+EPA,ORG,"Companies, agencies, institutions, etc."
+AMWA,ORG,"Companies, agencies, institutions, etc."
+Ben,PERSON,"People, including fictional"
+$5,MONEY,"Monetary values, including unit"
+fiscal year 2023,DATE,Absolute or relative dates or periods
+$5 million,MONEY,"Monetary values, including unit"
+EPA,ORG,"Companies, agencies, institutions, etc."
+AMWA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+DWWIA,ORG,"Companies, agencies, institutions, etc."
+First,ORDINAL,"""first"", ""second"", etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+Federal,ORG,"Companies, agencies, institutions, etc."
+AMWA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+"National Water Affordability 
+Needs Assessment",LAW,Named documents made into laws.
+EPA,ORG,"Companies, agencies, institutions, etc."
+Philadelphia Water,ORG,"Companies, agencies, institutions, etc."
+"the PENNVEST 
+State Revolving Fund",ORG,"Companies, agencies, institutions, etc."
+Bill,LAW,Named documents made into laws.
+Philadelphia,GPE,"Countries, cities, states"
+AMWA,ORG,"Companies, agencies, institutions, etc."
+today,DATE,Absolute or relative dates or periods
+AMWA,ORG,"Companies, agencies, institutions, etc."
+the Committee,ORG,"Companies, agencies, institutions, etc."
+"the 
+Philadelphia Water department",ORG,"Companies, agencies, institutions, etc."
+first,ORDINAL,"""first"", ""second"", etc."
+Hayman,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+today,DATE,Absolute or relative dates or periods
+Thomas Sigmund,PERSON,"People, including fictional"
+N-E-W,ORG,"Companies, agencies, institutions, etc."
+Sigmund,PERSON,"People, including fictional"
+Northeast Wisconsin,GPE,"Countries, cities, states"
+New,ORG,"Companies, agencies, institutions, etc."
+Carper,PERSON,"People, including fictional"
+Regional Clean Water Utility,ORG,"Companies, agencies, institutions, etc."
+Green Bay,GPE,"Countries, cities, states"
+Wisconsin,GPE,"Countries, cities, states"
+One,CARDINAL,Numerals that do not fall under another type
+Green Bay,GPE,"Countries, cities, states"
+the Super Bowl,EVENT,"Named hurricanes, battles, wars, sports events, etc."
+August,DATE,Absolute or relative dates or periods
+Capito,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+THOMAS W. SIGMUND,PERSON,"People, including fictional"
+"NATIONAL ASSOCIATION 
+   OF CLEAN WATER AGENCIES",ORG,"Companies, agencies, institutions, etc."
+NEW WATER,ORG,"Companies, agencies, institutions, etc."
+Sigmund,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Committee,ORG,"Companies, agencies, institutions, etc."
+today,DATE,Absolute or relative dates or periods
+Tom Sigmund,PERSON,"People, including fictional"
+"the Board 
+of Directors",ORG,"Companies, agencies, institutions, etc."
+the National Association of Clean Water,ORG,"Companies, agencies, institutions, etc."
+NEW Water,ORG,"Companies, agencies, institutions, etc."
+the Green Bay Metropolitan Sewerage District,GPE,"Countries, cities, states"
+Green,GPE,"Countries, cities, states"
+Wisconsin,GPE,"Countries, cities, states"
+2007,DATE,Absolute or relative dates or periods
+NEW Water,ORG,"Companies, agencies, institutions, etc."
+"238,000",CARDINAL,Numerals that do not fall under another type
+15,CARDINAL,Numerals that do not fall under another type
+Wisconsin,GPE,"Countries, cities, states"
+101,CARDINAL,Numerals that do not fall under another type
+annual,DATE,Absolute or relative dates or periods
+$49 million,MONEY,"Monetary values, including unit"
+"20 
+year",DATE,Absolute or relative dates or periods
+$470 million,MONEY,"Monetary values, including unit"
+2021,DATE,Absolute or relative dates or periods
+over 50 years,DATE,Absolute or relative dates or periods
+NACWA,ORG,"Companies, agencies, institutions, etc."
+350,CARDINAL,Numerals that do not fall under another type
+NACWA,ORG,"Companies, agencies, institutions, etc."
+"the 
+Federal Government",ORG,"Companies, agencies, institutions, etc."
+years,DATE,Absolute or relative dates or periods
+"DWWIA and 
+IIJA",LAW,Named documents made into laws.
+"the Bipartisan 
+Infrastructure Law",LAW,Named documents made into laws.
+NACWA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+Regan,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+Congress,ORG,"Companies, agencies, institutions, etc."
+NACWA,ORG,"Companies, agencies, institutions, etc."
+last July,DATE,Absolute or relative dates or periods
+"the Clean Water 
+State Revolving Fund",ORG,"Companies, agencies, institutions, etc."
+CWSRF,ORG,"Companies, agencies, institutions, etc."
+NACWA,ORG,"Companies, agencies, institutions, etc."
+DWWIA,ORG,"Companies, agencies, institutions, etc."
+CWSRF,ORG,"Companies, agencies, institutions, etc."
+annual,DATE,Absolute or relative dates or periods
+fiscal year 2022,DATE,Absolute or relative dates or periods
+CWSRF,ORG,"Companies, agencies, institutions, etc."
+States,GPE,"Countries, cities, states"
+EPA,ORG,"Companies, agencies, institutions, etc."
+fiscal year,DATE,Absolute or relative dates or periods
+2023,DATE,Absolute or relative dates or periods
+State,ORG,"Companies, agencies, institutions, etc."
+CWSRF,ORG,"Companies, agencies, institutions, etc."
+BIL,LAW,Named documents made into laws.
+fiscal years 2022,DATE,Absolute or relative dates or periods
+2023,DATE,Absolute or relative dates or periods
+Congress,ORG,"Companies, agencies, institutions, etc."
+BIL,LAW,Named documents made into laws.
+"only 60 
+percent",PERCENT,"Percentage, including ""%"""
+fiscal year 2023,DATE,Absolute or relative dates or periods
+Congress,ORG,"Companies, agencies, institutions, etc."
+NACWA,ORG,"Companies, agencies, institutions, etc."
+Biden,PERSON,"People, including fictional"
+fiscal year 2024,DATE,Absolute or relative dates or periods
+CWSRF,ORG,"Companies, agencies, institutions, etc."
+last fiscal year,DATE,Absolute or relative dates or periods
+Congress,ORG,"Companies, agencies, institutions, etc."
+BIL,LAW,Named documents made into laws.
+$3,MONEY,"Monetary values, including unit"
+next year,DATE,Absolute or relative dates or periods
+NACWA,ORG,"Companies, agencies, institutions, etc."
+CWSRF,ORG,"Companies, agencies, institutions, etc."
+each fiscal year,DATE,Absolute or relative dates or periods
+BIL,ORG,"Companies, agencies, institutions, etc."
+CWSRF,ORG,"Companies, agencies, institutions, etc."
+approximately half,CARDINAL,Numerals that do not fall under another type
+States,GPE,"Countries, cities, states"
+fiscal year 2022,DATE,Absolute or relative dates or periods
+One,CARDINAL,Numerals that do not fall under another type
+CWSRF,LAW,Named documents made into laws.
+this fiscal year,DATE,Absolute or relative dates or periods
+States,GPE,"Countries, cities, states"
+Wisconsin,GPE,"Countries, cities, states"
+States,ORG,"Companies, agencies, institutions, etc."
+NACWA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+CWSRF,LAW,Named documents made into laws.
+BIL,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+several years,DATE,Absolute or relative dates or periods
+NACWA,ORG,"Companies, agencies, institutions, etc."
+Federal,ORG,"Companies, agencies, institutions, etc."
+NACWA,ORG,"Companies, agencies, institutions, etc."
+DWWIA and IIJA,LAW,Named documents made into laws.
+Federal,ORG,"Companies, agencies, institutions, etc."
+Federal,ORG,"Companies, agencies, institutions, etc."
+the Federal Government,ORG,"Companies, agencies, institutions, etc."
+today,DATE,Absolute or relative dates or periods
+tomorrow,DATE,Absolute or relative dates or periods
+the Bipartisan Infrastructure,ORG,"Companies, agencies, institutions, etc."
+Sigmund,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+Kathy Emery,PERSON,"People, including fictional"
+Kathy,PERSON,"People, including fictional"
+the Division of Water and Waste Management,ORG,"Companies, agencies, institutions, etc."
+"the West 
+Virginia Department of Environmental Protection",ORG,"Companies, agencies, institutions, etc."
+West Virginia,GPE,"Countries, cities, states"
+KATHERYN D. EMERY,PERSON,"People, including fictional"
+DIVISION OF WATER AND,ORG,"Companies, agencies, institutions, etc."
+WEST VIRGINIA,GPE,"Countries, cities, states"
+DEPARTMENT OF ENVIRONMENTAL,ORG,"Companies, agencies, institutions, etc."
+Emery,PERSON,"People, including fictional"
+morning,TIME,Times smaller than a day
+Carper,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Committee,ORG,"Companies, agencies, institutions, etc."
+"the Drinking Water and Wastewater 
+Infrastructure Act",LAW,Named documents made into laws.
+"the Infrastructure 
+Investment and Jobs Act",LAW,Named documents made into laws.
+Katheryn Emery,PERSON,"People, including fictional"
+the,ORG,"Companies, agencies, institutions, etc."
+Department of Environmental Protection,ORG,"Companies, agencies, institutions, etc."
+Water and Waste Management,ORG,"Companies, agencies, institutions, etc."
+West Virginia's,GPE,"Countries, cities, states"
+the past 28 years,DATE,Absolute or relative dates or periods
+West Virginia,GPE,"Countries, cities, states"
+today,DATE,Absolute or relative dates or periods
+"the 
+Infrastructure Investment and Jobs Act",LAW,Named documents made into laws.
+only 50,CARDINAL,Numerals that do not fall under another type
+West Virginia's,GPE,"Countries, cities, states"
+671,CARDINAL,Numerals that do not fall under another type
+"greater than 10,000",CARDINAL,Numerals that do not fall under another type
+West,GPE,"Countries, cities, states"
+100 percent,PERCENT,"Percentage, including ""%"""
+101,CARDINAL,Numerals that do not fall under another type
+175,CARDINAL,Numerals that do not fall under another type
+the Clean Water SRF,LAW,Named documents made into laws.
+29,CARDINAL,Numerals that do not fall under another type
+157,CARDINAL,Numerals that do not fall under another type
+the Drinking Water SRF,LAW,Named documents made into laws.
+West Virginia,GPE,"Countries, cities, states"
+State,ORG,"Companies, agencies, institutions, etc."
+Federal,ORG,"Companies, agencies, institutions, etc."
+SRF,LAW,Named documents made into laws.
+State,ORG,"Companies, agencies, institutions, etc."
+States,GPE,"Countries, cities, states"
+one,CARDINAL,Numerals that do not fall under another type
+hundreds,CARDINAL,Numerals that do not fall under another type
+today,DATE,Absolute or relative dates or periods
+Emery,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+three,CARDINAL,Numerals that do not fall under another type
+Carper,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+Fox,PERSON,"People, including fictional"
+January,DATE,Absolute or relative dates or periods
+EPA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+Emery,PERSON,"People, including fictional"
+"this 
+past year",DATE,Absolute or relative dates or periods
+EPA Region III,ORG,"Companies, agencies, institutions, etc."
+West Virginia,GPE,"Countries, cities, states"
+EPA,ORG,"Companies, agencies, institutions, etc."
+coming months,DATE,Absolute or relative dates or periods
+Capito,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Congress,ORG,"Companies, agencies, institutions, etc."
+West Virginia,GPE,"Countries, cities, states"
+EPA,ORG,"Companies, agencies, institutions, etc."
+Emery,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+Region III,FAC,"Buildings, airports, highways, bridges, etc."
+Capito,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+the State of Wisconsin Clean Water Fund,ORG,"Companies, agencies, institutions, etc."
+the last year,DATE,Absolute or relative dates or periods
+EPA,ORG,"Companies, agencies, institutions, etc."
+Clean Water Fund,ORG,"Companies, agencies, institutions, etc."
+Capito,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+Lummis,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+Capito,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+West Virginia,GPE,"Countries, cities, states"
+Capito,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+Iaeger,GPE,"Countries, cities, states"
+McDowell County,GPE,"Countries, cities, states"
+Iaeger,GPE,"Countries, cities, states"
+over $100,MONEY,"Monetary values, including unit"
+over 3 percent,PERCENT,"Percentage, including ""%"""
+Capito,PERSON,"People, including fictional"
+Ricketts,PERSON,"People, including fictional"
+Ricketts,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+Republican,NORP,Nationalities or religious or political groups
+first,ORDINAL,"""first"", ""second"", etc."
+Kelly,PERSON,"People, including fictional"
+Ricketts,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+Good morning,TIME,Times smaller than a day
+Hayman,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+Congress,ORG,"Companies, agencies, institutions, etc."
+Risch,PERSON,"People, including fictional"
+"the Water Infrastructure 
+Modernization Act",LAW,Named documents made into laws.
+EPA,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+the Water Infrastructure Modernization Act,LAW,Named documents made into laws.
+Hayman,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+Hayman,PERSON,"People, including fictional"
+Philadelphia,GPE,"Countries, cities, states"
+$100,MONEY,"Monetary values, including unit"
+decades,DATE,Absolute or relative dates or periods
+Kelly,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+Kelly,PERSON,"People, including fictional"
+Ricketts,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Ricketts,PERSON,"People, including fictional"
+second,ORDINAL,"""first"", ""second"", etc."
+Ricketts,PERSON,"People, including fictional"
+first,ORDINAL,"""first"", ""second"", etc."
+Fox,PERSON,"People, including fictional"
+Hayman,PERSON,"People, including fictional"
+Hayman,PERSON,"People, including fictional"
+One,CARDINAL,Numerals that do not fall under another type
+Philadelphia,GPE,"Countries, cities, states"
+over a year,DATE,Absolute or relative dates or periods
+"the 
+1950s",DATE,Absolute or relative dates or periods
+1960s,DATE,Absolute or relative dates or periods
+Ricketts,PERSON,"People, including fictional"
+Hayman,PERSON,"People, including fictional"
+yesterday,DATE,Absolute or relative dates or periods
+"four 
+parts per trillion",QUANTITY,"Measurements, as of weight or distance"
+Philadelphia,GPE,"Countries, cities, states"
+trillion,CARDINAL,Numerals that do not fall under another type
+Ricketts,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+"$100,000 to $200,000",MONEY,"Monetary values, including unit"
+first,ORDINAL,"""first"", ""second"", etc."
+One,CARDINAL,Numerals that do not fall under another type
+CERCLA,ORG,"Companies, agencies, institutions, etc."
+EPA,ORG,"Companies, agencies, institutions, etc."
+"about 
+two decades",DATE,Absolute or relative dates or periods
+EPA,ORG,"Companies, agencies, institutions, etc."
+Congress,ORG,"Companies, agencies, institutions, etc."
+Ricketts,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+Emery,PERSON,"People, including fictional"
+Sigmund,PERSON,"People, including fictional"
+West Virginia,GPE,"Countries, cities, states"
+"the last 
+couple years",DATE,Absolute or relative dates or periods
+one,CARDINAL,Numerals that do not fall under another type
+Ricketts,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Ricketts,PERSON,"People, including fictional"
+two,CARDINAL,Numerals that do not fall under another type
+three,CARDINAL,Numerals that do not fall under another type
+three,CARDINAL,Numerals that do not fall under another type
+Hayman,PERSON,"People, including fictional"
+"The Bipartisan 
+Infrastructure Law",LAW,Named documents made into laws.
+Democrats,NORP,Nationalities or religious or political groups
+Republicans,NORP,Nationalities or religious or political groups
+The Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+more,MONEY,"Monetary values, including unit"
+5 years,DATE,Absolute or relative dates or periods
+some 49 percent,PERCENT,"Percentage, including ""%"""
+State,ORG,"Companies, agencies, institutions, etc."
+SRF,ORG,"Companies, agencies, institutions, etc."
+State,ORG,"Companies, agencies, institutions, etc."
+Philadelphia,GPE,"Countries, cities, states"
+Philadelphia,GPE,"Countries, cities, states"
+"the Bipartisan Infrastructure 
+Law",LAW,Named documents made into laws.
+Hayman,PERSON,"People, including fictional"
+the PENNVEST State Revolving Fund,ORG,"Companies, agencies, institutions, etc."
+one,CARDINAL,Numerals that do not fall under another type
+Philadelphia,GPE,"Countries, cities, states"
+second,ORDINAL,"""first"", ""second"", etc."
+One,CARDINAL,Numerals that do not fall under another type
+400,CARDINAL,Numerals that do not fall under another type
+Carper,PERSON,"People, including fictional"
+second,ORDINAL,"""first"", ""second"", etc."
+Sigmund,PERSON,"People, including fictional"
+the National Association of Clean Water Agencies,ORG,"Companies, agencies, institutions, etc."
+"the 
+Association of Metropolitan Water Agencies",ORG,"Companies, agencies, institutions, etc."
+"an 
+additional $448 billion to $944 billion",MONEY,"Monetary values, including unit"
+between now and 2050,DATE,Absolute or relative dates or periods
+The Drinking Water and Wastewater Infrastructure Act,LAW,Named documents made into laws.
+last year,DATE,Absolute or relative dates or periods
+Congress,ORG,"Companies, agencies, institutions, etc."
+"the Drinking Water and Wastewater Infrastructure 
+Act",LAW,Named documents made into laws.
+Sigmund,PERSON,"People, including fictional"
+Congress,ORG,"Companies, agencies, institutions, etc."
+NACWA,ORG,"Companies, agencies, institutions, etc."
+three,CARDINAL,Numerals that do not fall under another type
+the last 5 years,DATE,Absolute or relative dates or periods
+the year,DATE,Absolute or relative dates or periods
+Carper,PERSON,"People, including fictional"
+one,CARDINAL,Numerals that do not fall under another type
+Emery,PERSON,"People, including fictional"
+Markey,PERSON,"People, including fictional"
+Markey,PERSON,"People, including fictional"
+afternoon,TIME,Times smaller than a day
+Markey,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Markey,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Markey,PERSON,"People, including fictional"
+2021,DATE,Absolute or relative dates or periods
+Florida,GPE,"Countries, cities, states"
+"over 11,000 percent",PERCENT,"Percentage, including ""%"""
+"the Water Information Sharing and 
+Analysis Center",ORG,"Companies, agencies, institutions, etc."
+Water ISAC,ORG,"Companies, agencies, institutions, etc."
+Hayman,PERSON,"People, including fictional"
+Committee,ORG,"Companies, agencies, institutions, etc."
+Water ISAC,ORG,"Companies, agencies, institutions, etc."
+Hayman,PERSON,"People, including fictional"
+the Water ISAC,ORG,"Companies, agencies, institutions, etc."
+East Palestine,GPE,"Countries, cities, states"
+Ohio,GPE,"Countries, cities, states"
+Water ISAC,ORG,"Companies, agencies, institutions, etc."
+Markey,PERSON,"People, including fictional"
+Last week,DATE,Absolute or relative dates or periods
+"the Water System Threat 
+Preparedness and Resilience Act",LAW,Named documents made into laws.
+Water ISAC,ORG,"Companies, agencies, institutions, etc."
+Hayman,PERSON,"People, including fictional"
+Congress,ORG,"Companies, agencies, institutions, etc."
+Hayman,PERSON,"People, including fictional"
+Markey,PERSON,"People, including fictional"
+Hayman,PERSON,"People, including fictional"
+Markey,PERSON,"People, including fictional"
+East,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Palestine,GPE,"Countries, cities, states"
+Hayman,PERSON,"People, including fictional"
+Markey,PERSON,"People, including fictional"
+Samuel Taylor Coleridge,PERSON,"People, including fictional"
+Coleridge,PERSON,"People, including fictional"
+Americans,NORP,Nationalities or religious or political groups
+40 percent,PERCENT,"Percentage, including ""%"""
+2019,DATE,Absolute or relative dates or periods
+the CLEAR Act,LAW,Named documents made into laws.
+the Bipartisan Infrastructure Law,LAW,Named documents made into laws.
+Administration,ORG,"Companies, agencies, institutions, etc."
+More than $10,MONEY,"Monetary values, including unit"
+EPA,ORG,"Companies, agencies, institutions, etc."
+Fall,GPE,"Countries, cities, states"
+Massachusetts,GPE,"Countries, cities, states"
+decades,DATE,Absolute or relative dates or periods
+Hayman,PERSON,"People, including fictional"
+Hayman,PERSON,"People, including fictional"
+the last 15 years,DATE,Absolute or relative dates or periods
+about 700,CARDINAL,Numerals that do not fall under another type
+the last 5 years,DATE,Absolute or relative dates or periods
+"about 4,000",CARDINAL,Numerals that do not fall under another type
+one,CARDINAL,Numerals that do not fall under another type
+Markey,PERSON,"People, including fictional"
+only $30 million,MONEY,"Monetary values, including unit"
+last,DATE,Absolute or relative dates or periods
+$60,MONEY,"Monetary values, including unit"
+the Bipartisan Law,LAW,Named documents made into laws.
+Hayman,PERSON,"People, including fictional"
+Carper,PERSON,"People, including fictional"
+Markey,PERSON,"People, including fictional"
+today,DATE,Absolute or relative dates or periods
+Philadelphia,GPE,"Countries, cities, states"
+West Virginia,GPE,"Countries, cities, states"
+one,CARDINAL,Numerals that do not fall under another type
+"Aaron 
+Rodgers",PERSON,"People, including fictional"
+the Green Bay Packers,ORG,"Companies, agencies, institutions, etc."
+Committee,ORG,"Companies, agencies, institutions, etc."
+the Federal Government,ORG,"Companies, agencies, institutions, etc."
+"Bipartisan Water 
+and Wastewater legislation",LAW,Named documents made into laws.
+Federal,ORG,"Companies, agencies, institutions, etc."
+"4 p.m. on Wednesday,",TIME,Times smaller than a day
+"about 2 weeks 
+from today",DATE,Absolute or relative dates or periods
+"Wednesday, April 12th",DATE,Absolute or relative dates or periods
+first,ORDINAL,"""first"", ""second"", etc."
+today,DATE,Absolute or relative dates or periods
+Carper,PERSON,"People, including fictional"
+"a 
+number of years ago",DATE,Absolute or relative dates or periods
+West Virginia,GPE,"Countries, cities, states"
+Beckley,GPE,"Countries, cities, states"
+Raleigh County,GPE,"Countries, cities, states"
+Beaver,GPE,"Countries, cities, states"
+Beckley,GPE,"Countries, cities, states"
+every Sunday morning,TIME,Times smaller than a day
+every Sunday night,TIME,Times smaller than a day
+"every 
+Wednesday night",TIME,Times smaller than a day
+Thursday,DATE,Absolute or relative dates or periods
+Thursday,DATE,Absolute or relative dates or periods
+nights,TIME,Times smaller than a day
+Beaver,GPE,"Countries, cities, states"
+Billy Graham,PERSON,"People, including fictional"
+Sheila,PERSON,"People, including fictional"
+the Golden Rule,LAW,Named documents made into laws.
+Matthew 25,LAW,Named documents made into laws.
+today,DATE,Absolute or relative dates or periods
+Philadelphia,GPE,"Countries, cities, states"
+West Virginia,GPE,"Countries, cities, states"
+Packers,ORG,"Companies, agencies, institutions, etc."
+Eagles,ORG,"Companies, agencies, institutions, etc."
+the years,DATE,Absolute or relative dates or periods
+Green,GPE,"Countries, cities, states"
+12:27 p.m.,TIME,Times smaller than a day
